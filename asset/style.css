@@ -14,6 +14,50 @@ body, html {
   font-style: normal;
 }
 
+.custom-shape-divider-top-1714409433 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  overflow: hidden;
+  line-height: 0;
+}
+
+.custom-shape-divider-top-1714409433 svg {
+  position: relative;
+  display: block;
+  width: calc(100% + 1.3px);
+  height: 240px;
+}
+
+.custom-shape-divider-top-1714409433 .shape-fill {
+  fill: #0B1957;
+}
+
+.custom-shape-divider-top-1714409693 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  overflow: hidden;
+  line-height: 0;
+}
+
+.custom-shape-divider-top-1714409693 svg {
+  position: relative;
+  display: block;
+  width: calc(100% + 1.3px);
+  height: 240px;
+}
+
+.custom-shape-divider-top-1714409693 .shape-fill {
+  fill: #D2E0ED;
+}
+
+.margin-wave {
+  margin-top: 18vw;
+}
+
 .tx-lto {
   color: #0b1957;
   transition: color 0.8s ease-in-out;
